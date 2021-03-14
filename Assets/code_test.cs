@@ -9,6 +9,7 @@ public class code_test : MonoBehaviour
     {
         Debug.Log("Hello GitHub!");
         Debug.Log("01");
+        Debug.Log("Githubからの変更");
     }
 
     // Update is called once per frame
